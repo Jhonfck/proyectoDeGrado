@@ -298,17 +298,17 @@ a {
 	border-width: 12px 0 12px 12px;
 	}
 	
-.tags a.color1 {background: #f58220;}
+.tags a.color1 {background: #f58220;} /*naranja*/
 .tags a.color1:after {border-color: transparent transparent transparent #f58220}
-.tags a.color2 {background: #97c224;}
+.tags a.color2 {background: #97c224;} /*verde*/
 .tags a.color2:after {border-color: transparent transparent transparent #97c224}
-.tags a.color3 {background: #de3f3e;}
+.tags a.color3 {background: #de3f3e;} /*rojo*/
 .tags a.color3:after {border-color: transparent transparent transparent #de3f3e}
-.tags a.color4 {background: #ec008c;}
+.tags a.color4 {background: #ec008c;} /*violeta*/
 .tags a.color4:after {border-color: transparent transparent transparent #ec008c}
-.tags a.color5 {background: #00a6df;}
+.tags a.color5 {background: #00a6df;} /*azul*/
 .tags a.color5:after {border-color: transparent transparent transparent #00a6df}	
-.tags a:hover {background:#222 !important}
+.tags a:hover {background:#222 !important} 
 .tags a:hover:after {border-color:transparent transparent transparent #222!important}
 	
 .small a {
